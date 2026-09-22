@@ -1,1 +1,1 @@
-# bazi-manteghehaye-mahru.
+bazi-manteghehaye-mahrum
