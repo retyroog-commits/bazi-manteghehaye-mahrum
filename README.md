@@ -1,4 +1,4 @@
-bazi-manteghehaye-mahrum
+
 <!DOCTYPE html>
 <html lang="fa" dir="rtl">
 <head>
